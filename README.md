@@ -1,4 +1,4 @@
-# Supersnonic-Turbojet-Engine-Cycle-Design-
+# Supersonic-Turbojet-Engine-Cycle-Design-
 A fully functional platform to get the desired parameters for a supersonic turbojet engine cruising at a given Mach number at some altitude.
 
  This work focuses on the design and analysis of turbojet cycles for supersonic aircraft. We have taken a
